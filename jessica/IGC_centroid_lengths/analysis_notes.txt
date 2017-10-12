@@ -1,0 +1,7 @@
+###### Notes on the analysis of the length of centroids in the IGC #######
+
+* The length distribution was determined using two of Seth's scripts:
+      1. get_gene_lengths.py, to pull out the centroid lengths using the IGC.fa file in the directory /cbcb/project-scratch/BEST2017/data/IGC_data/1.GeneCatalogs. This created the file gene_lengths_IGC_centroids.txt.
+      2. get_distribution.py, to get the distribution of those lengths *NEED TO TALK TO SETH ABOUT HOW HIS SCRIPT WORKS
+
+Completed 23 September 2017
